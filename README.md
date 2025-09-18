@@ -10,6 +10,3 @@ This project is based on the [roadmap.sh Number Guessing Game project](https://r
 
 ## Project URL
 👉 https://roadmap.sh/projects/number-guessing-game
-
-## License
-MIT
